@@ -1903,7 +1903,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f2fc44;
+  background: #7c11ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2898,8 +2898,8 @@ body {
 .main-inner {
   margin-top: 60px;
   padding: 60px 60px 60px 60px;
-  background: #fff;
-  opacity: 0.8;
+  background: #f1f1f1;
+  opacity: 1;
   min-height: 500px;
 }
 .post {
